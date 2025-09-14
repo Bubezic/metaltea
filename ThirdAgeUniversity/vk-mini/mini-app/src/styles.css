@@ -1,0 +1,38 @@
+/* Увеличенные размеры элементов */
+.vkuiSimpleCell {
+    font-size: 18px !important;
+    min-height: 56px !important;
+  }
+  
+  .vkuiButton {
+    font-size: 16px !important;
+    min-height: 48px !important;
+  }
+  
+  .vkuiTitle--level-1 {
+    font-size: 24px !important;
+  }
+  
+  .vkuiTitle--level-2 {
+    font-size: 20px !important;
+  }
+  
+  .vkuiText {
+    font-size: 18px !important;
+    line-height: 1.6 !important;
+  }
+  
+  .vkuiTabbarItem__label {
+    font-size: 12px !important;
+  }
+  
+  /* Улучшенная контрастность */
+  .vkuiCard {
+    background-color: #ffffff !important;
+    border-radius: 12px !important;
+  }
+  
+  /* Увеличение touch targets */
+  .vkuiTabbarItem {
+    min-height: 56px !important;
+  }
